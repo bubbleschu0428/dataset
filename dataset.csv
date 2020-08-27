@@ -1,0 +1,11 @@
+country,age,salary,buy
+China,49,86400,No
+Japan,32,57600,Yes
+USA,35,64800,No
+,43,73200,No
+USA,45,,Yes
+China,40,69600,Yes
+Japan,,62400,No
+China,53,94800,Yes
+USA,55,99600,No
+China,42,80400,Yes
